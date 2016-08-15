@@ -18,7 +18,7 @@ Let's make a planetary system!
 # Wave 1
 ## Primary Requirements
 - Get creative! Give each instance of `Planet` at least five attributes. These could be diameters, mass, moons... whatever!
-- Allow these attributes to be set using a hash in `initialize`.
+- Allow these attributes to be set using parameters in `initialize`.
 - You should be able to create many different planets with different properties, like Mercury, Venus, Earth, Mars, Jupiter, etc.
 
 ## Optional Enhancements
